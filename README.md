@@ -1,5 +1,12 @@
 # Power-BI-Dashboard-Analysis-Bank-Marketing-Campaign-Data
 This analysis uses the Bank Marketing Campaigns dataset (UCI / Kaggle, S. Moro, P. Cortez, P. Rita, 2014), which records the outcomes of a Portuguese bank's direct-call term-deposit campaign. The dataset contains 41,188 client records across 21 variables, including client demographics. The dataset is complete, with no missing values. 
+<img width="4150" height="2400" alt="6c82721d-2c0a-4129-a056-4496f95f7ca3-0002" src="https://github.com/user-attachments/assets/99451b73-de98-48bd-b77e-e7f4332ca3f7" />
+<img width="4150" height="2400" alt="6c82721d-2c0a-4129-a056-4496f95f7ca3-0001" src="https://github.com/user-attachments/assets/55c2de2f-5af0-4660-b898-193b2901d39b" />
+<img width="4150" height="2400" alt="6c82721d-2c0a-4129-a056-4496f95f7ca3-0000" src="https://github.com/user-attachments/assets/56b9301a-1829-4829-8d0c-458dd975026b" />
+<img width="4150" height="2400" alt="6c82721d-2c0a-4129-a056-4496f95f7ca3-0006" src="https://github.com/user-attachments/assets/c5448911-59ec-4c82-b5c7-48c2cc319c5d" />
+<img width="4150" height="2400" alt="6c82721d-2c0a-4129-a056-4496f95f7ca3-0005" src="https://github.com/user-attachments/assets/5ca36b6c-780c-4e30-b4c1-f2059e1db36e" />
+<img width="4150" height="2400" alt="6c82721d-2c0a-4129-a056-4496f95f7ca3-0004" src="https://github.com/user-attachments/assets/1e992af3-1709-44ea-97ba-88f00c7d4aac" />
+<img width="4150" height="2400" alt="6c82721d-2c0a-4129-a056-4496f95f7ca3-0003" src="https://github.com/user-attachments/assets/d523a738-2a23-426f-a2e1-6a4f23ea9645" />
 
 # 1. Dataset Selected
 This analysis uses the Bank Marketing Campaigns dataset (UCI / Kaggle, S. Moro, P. Cortez, P. Rita, 2014), which records the outcomes of a Portuguese bank's direct-call term-deposit campaign. The dataset contains 41,188 client records across 21 variables, including client demographics (age, job, marital status, education), loan and credit status, contact-related fields (channel, month, day, call duration), campaign history (number of contacts, prior outcome), macroeconomic indicators (employment variation rate, consumer price index, Euribor 3-month rate, number employed), and the binary outcome variable, whether the client subscribed to a term deposit (y). The dataset is complete, with no missing values, which allowed the analysis to proceed directly to exploration without an imputation step.
